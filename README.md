@@ -1,2 +1,6 @@
-Examples from the Rust Book. \
-Run them from `examples` directory.
+Examples from the Rust Book.
+
+# Usage
+```
+cargo run --example <name>
+```
