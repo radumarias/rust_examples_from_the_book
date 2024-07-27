@@ -1,4 +1,4 @@
-Examples from the Rust Book.
+Examples from the [Rust Book](https://doc.rust-lang.org/book).
 
 # Usage
 ```
